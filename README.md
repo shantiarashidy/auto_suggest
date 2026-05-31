@@ -1,4 +1,6 @@
 # Smart Auto-Suggest for Persian Search
+# my internet is too slow so you can download data using this link :
+https://quera.org/college/assignments/33976/download_problem_initial_project/163173/
 
 An intelligent auto-suggestion system for Persian text inputs, capable of handling typos, keyboard layout mistakes (English typed instead of Persian), and partial queries — built for real-world search experiences.
 
